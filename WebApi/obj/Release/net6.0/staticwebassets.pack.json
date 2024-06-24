@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project test\\WebApi\\WebApi\\WebApi\\wwwroot\\Files\\CVs\\a9de7638-70d2-4562-981e-8b9dcf348468-Mon&thur 7PM (Ma'adi) Week04.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\a9de7638-70d2-4562-981e-8b9dcf348468-Mon&thur 7PM (Ma'adi) Week04.pdf"
+    },
+    {
+      "Id": "D:\\Project test\\WebApi\\WebApi\\WebApi\\wwwroot\\Files\\CVs\\f4efcf25-a231-4dfb-9588-716fb2c34d1d-Mon&thur 7PM (Ma'adi) Week04.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\f4efcf25-a231-4dfb-9588-716fb2c34d1d-Mon&thur 7PM (Ma'adi) Week04.pdf"
+    },
+    {
+      "Id": "D:\\Project test\\WebApi\\WebApi\\WebApi\\wwwroot\\Files\\Pictures\\13141f91-3209-4db8-a65f-0fa9218c1e63-Screenshot 2024-02-22 151930.png",
+      "PackagePath": "staticwebassets\\Files\\Pictures\\13141f91-3209-4db8-a65f-0fa9218c1e63-Screenshot 2024-02-22 151930.png"
+    },
+    {
+      "Id": "D:\\Project test\\WebApi\\WebApi\\WebApi\\wwwroot\\Files\\Pictures\\3e15ad43-4b0c-4ce5-8256-c8035cf039a7-Screenshot 2024-06-14 211115.png",
+      "PackagePath": "staticwebassets\\Files\\Pictures\\3e15ad43-4b0c-4ce5-8256-c8035cf039a7-Screenshot 2024-06-14 211115.png"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.WebApi.props",
+      "PackagePath": "build\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApi.props",
+      "PackagePath": "buildTransitive\\WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

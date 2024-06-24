@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] </title>
+    <link rel="stylesheet" href="~/css/all.min.css" />
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/framework.css" />
+    <link rel="stylesheet" href="~/css/master.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500&display=swap"
+          rel="stylesheet" />
+    <link rel="icon" type="image/x-icon" href="~/logo.ico">
+
+</head>
+<body>
+    <div class="page d-flex">
+        <div class="sidebar bg-white p-20 p-relative">
+            <ul>
+                <li>
+                    <a class="active d-flex align-center fs-14 c-black rad-6 p-10"
+                       asp-action="Index" asp-controller="Home">
+                        <i class="fa-solid fa-house fa-fw"></i>
+                        <span>Home</span>
+                    </a>
+                </li>
+                <li>
+                    <a class=" d-flex align-center fs-14 c-black rad-6 p-10"
+                       asp-action="Index" asp-controller="Role">
+                        <i class="fa-solid fa-user fa-fw"></i>
+                        <span>Roles</span>
+                    </a>
+                </li>
+
+                <li>
+                    <a class=" d-flex align-center fs-14 c-black rad-6 p-10"
+                       asp-action="Index" asp-controller="User">
+                        <i class="fa-solid fa-users fa-fw"></i>
+                        <span>Users</span>
+                    </a>
+                </li>
+                
+
+                <li>
+                    <a class="d-flex align-center fs-14 c-black rad-6 p-10"
+                       asp-action="Index" asp-controller="Camp">
+                        <i class="fa-solid fa-graduation-cap fa-fw"></i>
+                        <span>Camps</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="d-flex align-center fs-14 c-black rad-6 p-10"
+                       asp-action="Index" asp-controller="TripsEvent">
+                        <i class="fa-solid fa-calendar-days fa-fw"></i>
+                        <span>Event & Trips</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="d-flex align-center fs-14 c-black rad-6 p-10" asp-action="Index" asp-controller="Birthday">
+                        <i class="fa-solid fa-cake-candles fa-fw"></i>
+                        <span>Birthday</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="d-flex align-center fs-14 c-black rad-6 p-10" asp-action="Index" asp-controller="Staff">
+                        <i class="fa-solid fa-people-group fa-fw"></i>
+                        <span>Crew</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="d-flex align-center fs-14 c-black rad-6 p-10" asp-action="Index" asp-controller="Child">
+                        <i class="fa-solid fa-child fa-fw"></i>
+                        <span>Child</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="d-flex align-center fs-14 c-black rad-6 p-10" asp-action="Index" asp-controller="Location">
+                        <i class="fa-solid fa-house-fire fa-fw"></i>
+                        <span>Location</span>
+                    </a>
+                </li>
+
+                <li>
+                    <a asp-action="Signout" asp-controller="Admin" class="d-flex align-center fs-14 c-black rad-6 p-10">
+                        <i class="fa-solid fa-right-from-bracket fa-fw"></i>
+                        <span>Sign Out</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="content w-full">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+    <script src="~/Js/bootstrap.bundle.min.js"></script>
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>

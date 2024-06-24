@@ -1,0 +1,66 @@
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\bin\Debug\net6.0\Service.deps.json
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\bin\Debug\net6.0\Service.dll
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\bin\Debug\net6.0\Service.pdb
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\bin\Debug\net6.0\Core.dll
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\bin\Debug\net6.0\Core.pdb
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\obj\Debug\net6.0\Service.dll
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\obj\Debug\net6.0\refint\Service.dll
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\obj\Debug\net6.0\Service.pdb
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\bin\Debug\net6.0\Service.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\bin\Debug\net6.0\Core.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\bin\Debug\net6.0\Infrastracture.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\bin\Debug\net6.0\Infrastracture.pdb
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\bin\Debug\net6.0\Core.pdb
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\obj\Debug\net6.0\Service.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\jimmy\Downloads\assingment\WebApi\Service\obj\Debug\net6.0\ref\Service.dll
+D:\Project test\WebApi\Service\bin\Debug\net6.0\Service.deps.json
+D:\Project test\WebApi\Service\bin\Debug\net6.0\Service.dll
+D:\Project test\WebApi\Service\bin\Debug\net6.0\Service.pdb
+D:\Project test\WebApi\Service\bin\Debug\net6.0\Core.dll
+D:\Project test\WebApi\Service\bin\Debug\net6.0\Infrastracture.dll
+D:\Project test\WebApi\Service\bin\Debug\net6.0\Infrastracture.pdb
+D:\Project test\WebApi\Service\bin\Debug\net6.0\Core.pdb
+D:\Project test\WebApi\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\Project test\WebApi\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project test\WebApi\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\Project test\WebApi\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\Project test\WebApi\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\Project test\WebApi\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\Project test\WebApi\Service\obj\Debug\net6.0\Service.dll
+D:\Project test\WebApi\Service\obj\Debug\net6.0\refint\Service.dll
+D:\Project test\WebApi\Service\obj\Debug\net6.0\Service.pdb
+D:\Project test\WebApi\Service\obj\Debug\net6.0\ref\Service.dll
+D:\GP\WebApi\Service\bin\Debug\net6.0\Service.deps.json
+D:\GP\WebApi\Service\bin\Debug\net6.0\Service.dll
+D:\GP\WebApi\Service\bin\Debug\net6.0\Service.pdb
+D:\GP\WebApi\Service\bin\Debug\net6.0\Core.dll
+D:\GP\WebApi\Service\bin\Debug\net6.0\Infrastracture.dll
+D:\GP\WebApi\Service\bin\Debug\net6.0\Infrastracture.pdb
+D:\GP\WebApi\Service\bin\Debug\net6.0\Core.pdb
+D:\GP\WebApi\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\GP\WebApi\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP\WebApi\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\GP\WebApi\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\GP\WebApi\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\GP\WebApi\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\GP\WebApi\Service\obj\Debug\net6.0\Service.dll
+D:\GP\WebApi\Service\obj\Debug\net6.0\refint\Service.dll
+D:\GP\WebApi\Service\obj\Debug\net6.0\Service.pdb
+D:\GP\WebApi\Service\obj\Debug\net6.0\ref\Service.dll

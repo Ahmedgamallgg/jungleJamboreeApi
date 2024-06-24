@@ -1,0 +1,66 @@
+﻿@model childViewModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="p-relative">Details</h1>
+
+<br />
+<br />
+<div class="row m-4">
+    <div class="col-12">
+
+        <div class="form-group">
+            <label asp-for="@Model.Id" class="col-form-label"></label>
+            <input asp-for="@Model.Id" class="form-control" disabled />
+            <span asp-validation-for="@Model.Id" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.FName" class="col-form-label"></label>
+            <input asp-for="@Model.FName" class="form-control" disabled />
+            <span asp-validation-for="@Model.FName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Lname" class="col-form-label"></label>
+            <input asp-for="@Model.Lname" class="form-control" disabled />
+            <span asp-validation-for="@Model.Lname" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.EmergencyContact" class="col-form-label"></label>
+            <input asp-for="@Model.EmergencyContact" class="form-control" disabled />
+            <span asp-validation-for="@Model.EmergencyContact" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Gender" class="col-form-label"></label>
+            <input asp-for="@Model.Gender" class="form-control" disabled />
+            <span asp-validation-for="@Model.Gender" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.DOB" class="col-form-label"></label>
+            <input value="@Model.DOB.ToString()" class="form-control" disabled />
+
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.ParentName" class="col-form-label"></label>
+            <input  asp-for="@Model.ParentName" class="form-control" disabled />
+            <span asp-validation-for="@Model.ParentName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.MedicalConditions" class="col-form-label"></label>
+            <input value="@string.Join(", ", Model.MedicalConditions)" class="form-control" disabled />
+            
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Allergies" class="col-form-label"></label>
+            <input value="@string.Join(", ", Model.Allergies)" class="form-control" disabled />
+            
+        </div>
+
+        <br />
+
+        <a class="btn btn-danger pe-2" asp-action="Delete" asp-route-id="@Model.Id">Delete</a> |
+        <a class="btn btn-light" asp-action="Index">Back To List</a>
+    </div>
+</div>
+

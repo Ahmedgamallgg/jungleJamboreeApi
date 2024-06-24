@@ -1,0 +1,55 @@
+﻿@model IReadOnlyList<CampDto>
+@{
+    ViewData["Title"] = "Camp";
+}
+
+
+    <!-- Start Head -->
+    <div class="head bg-white p-15 between-flex">
+        <div class="icons d-flex align-center">
+            <span class="notification p-relative">
+                <i class="fa-regular fa-bell fa-lg"></i>
+            </span>
+            <img src="~/imgs/avatar.png" alt="" />
+        </div>
+    </div>
+    <!-- End Head -->
+    <h1 class="p-relative">Camps</h1>
+    <a asp-action="Create" class="btn btn-primary d-inline-block m-3">Create</a>
+
+    <div class="courses-page d-grid m-20 gap-20">
+        @foreach (var camp in Model)
+        {
+            <div class="course bg-white rad-6 p-relative">
+                <img class="cover" src="~/imgs/overnight camping.jpg" alt="camp image" />
+                <div class="p-20">
+                    <h4 class="m-0">@camp.Description</h4>
+                    <p class="description c-grey mt-15 fs-14">@camp.CampType</p>
+                </div> 
+                <div class="btn-groups mb-3 p-2">
+
+                    <a asp-controller="Camp" asp-action="Details" asp-route-id="@camp.Id" class="btn btn-primary me-2">
+                        Details <i class="fa-solid fa-arrow-right-to-bracket ps-1"></i>
+                    </a>
+                    <a asp-controller="Camp" asp-action="Update" asp-route-id="@camp.Id" class="btn btn-warning">
+                        Update <i class="fa-solid fa-pen-to-square ps-1"></i>
+                    </a> <br />
+                <a asp-controller="Camp" asp-action="IsActive" asp-route-id="@camp.Id" class="btn btn-success mt-3">
+                        Active <i class="fa-solid fa-bullhorn ps-1"></i>
+                    </a>
+                </div>
+                <div class="info p-15 p-relative between-flex">
+                    <span class="c-grey">
+                        <i class="fa-regular fa-user"></i>
+                        @camp.Capacity
+                    </span>
+                    <span class="c-grey">
+                        <i class="fa-solid fa-dollar-sign"></i>
+                        @camp.RegistrationFees
+                    </span>
+                </div>
+            </div>
+        }
+
+    </div>
+

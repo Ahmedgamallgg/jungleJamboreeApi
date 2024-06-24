@@ -1,0 +1,70 @@
+﻿@model TripsEventViewModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="p-relative">Details</h1>
+
+<br />
+<br />
+<div class="row m-4">
+    <div class="col-12">
+
+        <div class="form-group">
+            <label asp-for="@Model.RequestId" class="col-form-label"></label>
+            <input asp-for="@Model.RequestId" class="form-control" disabled />
+            <span asp-validation-for="@Model.RequestId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.UserId" class="col-form-label"></label>
+            <input asp-for="@Model.UserId" class="form-control" disabled />
+            <span asp-validation-for="@Model.UserId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Destnation" class="col-form-label"></label>
+            <input asp-for="@Model.Destnation" class="form-control" disabled />
+            <span asp-validation-for="@Model.Destnation" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Activity" class="col-form-label"></label>
+            <input asp-for="@Model.Activity" class="form-control" disabled />
+            <span asp-validation-for="@Model.Activity" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Type" class="col-form-label"></label>
+            <input  asp-for="@Model.Type" class="form-control" disabled />
+            <span asp-validation-for="@Model.Type" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.AdditionalInfo" class="col-form-label"></label>
+            <input asp-for="@Model.AdditionalInfo" class="form-control" disabled />
+
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Date" class="col-form-label"></label>
+            <input  asp-for="@Model.Date" class="form-control" disabled />
+            <span asp-validation-for="@Model.Date" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.BudgetPerPerson" class="col-form-label"></label>
+            <input  asp-for="@Model.BudgetPerPerson" class="form-control" disabled />
+            <span asp-validation-for="@Model.BudgetPerPerson" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.NumberPerPerson" class="col-form-label"></label>
+            <input  asp-for="@Model.NumberPerPerson" class="form-control" disabled />
+            <span asp-validation-for="@Model.NumberPerPerson" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.State" class="col-form-label"></label>
+            <input  asp-for="@Model.State" class="form-control" disabled />
+            <span asp-validation-for="@Model.State" class="text-danger"></span>
+        </div>
+        <br />
+
+        <a class="btn btn-success" asp-action="Accept" asp-route-id="@Model.RequestId">Accept</a> |
+        <a class="btn btn-light" asp-action="Index">Back To List</a>
+    </div>
+</div>
+

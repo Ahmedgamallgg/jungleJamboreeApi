@@ -1,0 +1,62 @@
+[
+  {
+    "CampType": "OverNight",
+    "Capacity": 50,
+    "AgeRange": 5,
+    "RegistrationFees": 4500,
+    "Description": "SummerCamp",
+    "StartDate": "2024-08-04",
+    "EndDate": "2024-08-12",
+    "LocationId": 2,
+    "IsActive": false
+
+  },
+  {
+    "CampType": "FullDay",
+    "Capacity": 60,
+    "AgeRange": 8,
+    "RegistrationFees": 4000,
+    "Description": "WinterCamp",
+    "StartDate": "2024-09-09",
+    "EndDate": "2024-09-09",
+    "LocationId": 5,
+    "IsActive": false
+
+  },
+  {
+    "CampType": "OverNight",
+    "Capacity": 50,
+    "AgeRange": 6,
+    "RegistrationFees": 3000,
+    "Description": "SummerCamp",
+    "StartDate": "2021-05-05",
+    "EndDate": "2021-05-08",
+    "LocationId": 3,
+    "IsActive": false
+
+  },
+  {
+    "CampType": "FullDay",
+    "Capacity": 50,
+    "AgeRange": 5,
+    "RegistrationFees": 4500,
+    "Description": "HalloweenCamp",
+    "StartDate": "2021-07-05",
+    "EndDate": "2021-07-05",
+    "LocationId": 1,
+    "IsActive": false
+
+  },
+  {
+    "CampType": "OverNight",
+    "Capacity": 50,
+    "AgeRange": 7,
+    "RegistrationFees": 3500,
+    "Description": "SummerCamp",
+    "StartDate": "2023-06-03",
+    "EndDate": "2023-06-05",
+    "LocationId": 4,
+    "IsActive": false
+
+  }
+]

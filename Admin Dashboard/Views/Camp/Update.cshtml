@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Update";
+}
+
+<h1 class="p-relative">Update</h1>
+
+<div class="row m-4">
+    <div class="col-6">
+        <form asp-action="Update" asp-controller="Camp">
+            <partial name="PartialViews/CreateOrUpdatePartialView" />
+            <input type="submit" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-light">Back To List</a>
+
+        </form>
+    </div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+}

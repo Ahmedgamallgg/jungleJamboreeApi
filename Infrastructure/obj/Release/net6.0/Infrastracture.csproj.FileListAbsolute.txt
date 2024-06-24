@@ -1,0 +1,30 @@
+D:\GP\WebApi\Infrastructure\bin\Release\net6.0\Infrastracture.deps.json
+D:\GP\WebApi\Infrastructure\bin\Release\net6.0\Infrastracture.dll
+D:\GP\WebApi\Infrastructure\bin\Release\net6.0\Infrastracture.pdb
+D:\GP\WebApi\Infrastructure\bin\Release\net6.0\Core.dll
+D:\GP\WebApi\Infrastructure\bin\Release\net6.0\Core.pdb
+D:\GP\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.csproj.AssemblyReference.cache
+D:\GP\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.AssemblyInfoInputs.cache
+D:\GP\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.AssemblyInfo.cs
+D:\GP\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.csproj.CoreCompileInputs.cache
+D:\GP\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.csproj.CopyComplete
+D:\GP\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.dll
+D:\GP\WebApi\Infrastructure\obj\Release\net6.0\refint\Infrastracture.dll
+D:\GP\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.pdb
+D:\GP\WebApi\Infrastructure\obj\Release\net6.0\ref\Infrastracture.dll
+D:\Project test\WebApi\WebApi\Infrastructure\bin\Release\net6.0\Infrastracture.deps.json
+D:\Project test\WebApi\WebApi\Infrastructure\bin\Release\net6.0\Infrastracture.dll
+D:\Project test\WebApi\WebApi\Infrastructure\bin\Release\net6.0\Infrastracture.pdb
+D:\Project test\WebApi\WebApi\Infrastructure\bin\Release\net6.0\Core.dll
+D:\Project test\WebApi\WebApi\Infrastructure\bin\Release\net6.0\Core.pdb
+D:\Project test\WebApi\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.csproj.AssemblyReference.cache
+D:\Project test\WebApi\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project test\WebApi\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.AssemblyInfoInputs.cache
+D:\Project test\WebApi\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.AssemblyInfo.cs
+D:\Project test\WebApi\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.csproj.CoreCompileInputs.cache
+D:\Project test\WebApi\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.csproj.CopyComplete
+D:\Project test\WebApi\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.dll
+D:\Project test\WebApi\WebApi\Infrastructure\obj\Release\net6.0\refint\Infrastracture.dll
+D:\Project test\WebApi\WebApi\Infrastructure\obj\Release\net6.0\Infrastracture.pdb
+D:\Project test\WebApi\WebApi\Infrastructure\obj\Release\net6.0\ref\Infrastracture.dll

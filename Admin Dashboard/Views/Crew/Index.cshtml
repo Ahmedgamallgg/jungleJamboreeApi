@@ -1,0 +1,87 @@
+﻿@model IReadOnlyList<CrewViewModel>
+@{
+    ViewData["Title"] = "Crew";
+}
+
+<div class="head bg-white p-15 between-flex">
+
+    <div class="icons d-flex align-center">
+        <span class="notification p-relative">
+            <i class="fa-regular fa-bell fa-lg"></i>
+        </span>
+        <img src="~/imgs/avatar.png" alt="logo" />
+    </div>
+</div>
+
+<h1 class="p-relative">Crew</h1>
+<a asp-action="Create" class="btn btn-primary m-3">Create</a>
+@if (@Model != null)
+{
+    <div class="projects p-20 bg-white rad-10 m-20">
+        <h2 class="mt-0 mb-20">Projects</h2>
+        <div class="responsive-table">
+            <table class="fs-15 w-full text-center">
+                <thead>
+                    <tr>
+                        <td>SSN</td>
+                        <td>Name</td>
+                        <td>Email</td>
+                        <td>Salary</td>
+                        <td>Position</td>
+
+                        <td>Details</td>
+                        <td>Update</td>
+                        <td>Delete</td>
+
+
+
+                    </tr>
+                </thead>
+                @foreach (var item in Model)
+                {
+                    <tbody>
+                        <tr>
+                            <td>@item.SSN</td>
+
+                            <td>@item.Name</td>
+                            <td>@item.Email</td>
+                            <td>@item.Salary</td>
+                            <td>@item.Position</td>
+
+                            <td>
+                                <a asp-action="Details" asp-route-id="@item.SSN" class="btn btn-primary pe-2">
+                                    Details
+                                    <i class="fa-solid fa-arrow-right-to-bracket ps-1"></i>
+                                </a>
+                            </td>
+
+                            <td>
+                                <a asp-action="Update" asp-route-id="@item.SSN" class="btn btn-success pe-2">
+                                    Update
+                                    <i class="fa-solid fa-accept"></i>
+                                </a>
+                            </td>
+                            <td>
+                                <a asp-action="Delete" asp-route-id="@item.SSN" class="btn btn-danger pe-2">
+                                    Delete
+                                    <i class="fa-solid fa-trash-can"></i>
+                                </a>
+                            </td>
+                        </tr>
+
+
+
+
+                    </tbody>
+                }
+
+            </table>
+        </div>
+    </div>
+}
+else
+{
+    <div class="alert-warning">
+        <h3>No Tips or Events Found!!</h3>
+    </div>
+}

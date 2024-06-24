@@ -1,0 +1,140 @@
+[
+  {
+    "FName": "Osama",
+    "Lname": "Waked",
+    "Gender": 1,
+    "Address": "Helwan",
+    "DOB": {
+      "Year": 1999,
+      "Month": 5,
+      "Day": 29
+    },
+    "Email": "osamanasser10@gmail.com",
+    "Passsword": "Password123!",
+    "Childrens": [
+      {
+        "DOB": {
+          "Year": 2013,
+          "Month": 3,
+          "Day": 29
+        },
+        "FName": "Younis",
+        "Lname": "Osama",
+        "EmergencyContact": "01007928898",
+        "Gender": 1
+
+      }
+    ]
+
+  },
+  {
+    "FName": "Khaled",
+    "Lname": "Mohamed",
+    "Gender": 1,
+    "Address": "Maadi",
+    "DOB": {
+      "Year": 2000,
+      "Month": 6,
+      "Day": 12
+    },
+    "Email": "khaledmohamed74@gmail.com",
+    "Passsword": "Password123!",
+    "Childrens": [
+      {
+        "DOB": {
+          "Year": 2020,
+          "Month": 3,
+          "Day": 29
+        },
+        "FName": "Lotfy",
+        "Lname": "Khaled",
+        "EmergencyContact": "01119587745",
+        "Gender": 1
+
+      }
+    ]
+  },
+  {
+    "FName": "Nessma",
+    "Lname": "Ibrahim",
+    "Gender": 2,
+    "Address": "NewCairo",
+    "DOB": {
+      "Year": 1980,
+      "Month": 3,
+      "Day": 29
+    },
+    "Email": "nessmaibrahim77@gmail.com",
+    "Passsword": "Password123!",
+    "Childrens": [
+      {
+        "DOB": {
+          "Year": 2016,
+          "Month": 3,
+          "Day": 29
+        },
+        "FName": "Sawsan",
+        "Lname": "Badr",
+        "EmergencyContact": "01226354462",
+        "Gender": 2
+
+      }
+    ]
+  },
+  {
+    "FName": "Mohamed",
+    "Lname": "Abobakr",
+    "Gender": 1,
+    "Address": "NewCiro",
+    "DOB": {
+      "Year": 2001,
+      "Month": 12,
+      "Day": 29
+    },
+    "Email": "mohamedbakr55@gmail.com",
+    "Passsword": "Password123!",
+    "Childrens": [
+      {
+        "DOB": {
+          "Year": 2019,
+          "Month": 3,
+          "Day": 29
+        },
+        "FName": "Bakr",
+        "Lname": "Mohamded",
+        "EmergencyContact": "01152220041",
+        "Gender": 1
+
+      }
+    ]
+  },
+  {
+
+    "FName": "Cristiano",
+    "Lname": "  Ronaldo",
+    "Gender": 1,
+    "Address": "Maadi",
+    "DOB": {
+      "Year": 1989,
+      "Month": 4,
+      "Day": 9
+    },
+    "Email": "cr7@gmail.com",
+    "Passsword": "Password123!",
+    "Childrens": [
+      {
+        "DOB": {
+          "Year": 2008,
+          "Month": 3,
+          "Day": 29
+        },
+        "FName": "Junior",
+        "Lname": "Cristiano",
+        "EmergencyContact": "01007925566",
+        "Gender": 1
+
+      }
+    ]
+
+  }
+]

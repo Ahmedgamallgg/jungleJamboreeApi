@@ -1,0 +1,86 @@
+﻿@model NewStaffViewModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="p-relative">Details</h1>
+
+<br />
+<br />
+<div class="row m-4">
+    <div class="col-12">
+        <div class="crewImg d-flex justify-content-center m-3">
+            @if (Model.PictureUrl == null)
+            {
+                <img class="w-50 rounded-2" src="~/imgs/team-01.png" />
+            }
+            else
+            {
+                <img class="w-50 rounded-2" src="@Model.PictureUrl" />
+
+            }
+          
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.RequestId" class="col-form-label"></label>
+            <input asp-for="@Model.RequestId" class="form-control" disabled />
+            <span asp-validation-for="@Model.RequestId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.UserId" class="col-form-label"></label>
+            <input asp-for="@Model.UserId" class="form-control" disabled />
+            <span asp-validation-for="@Model.UserId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Email" class="col-form-label"></label>
+            <input asp-for="@Model.Email" class="form-control" disabled />
+            <span asp-validation-for="@Model.Email" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Name" class="col-form-label"></label>
+            <input asp-for="@Model.Name" class="form-control" disabled />
+            <span asp-validation-for="@Model.Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Address" class="col-form-label"></label>
+            <input asp-for="@Model.Address" class="form-control" disabled />
+            <span asp-validation-for="@Model.Address" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.phone" class="col-form-label"></label>
+            <input asp-for="@Model.phone" class="form-control" disabled />
+
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Gender" class="col-form-label"></label>
+            <input  asp-for="@Model.Gender" class="form-control" disabled />
+            <span asp-validation-for="@Model.Gender" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.DOB" class="col-form-label"></label>
+            <input value="@Model.DOB.ToString()" class="form-control" disabled />
+
+        </div>
+
+
+        <div class="form-group d-inline-block my-3">
+
+            @if (Model.CVUrl == null)
+            {
+                <p class="alert-danger"> no data found</p>
+            }
+            else
+            {
+                <a class="btn btn-dark" href="@Model.CVUrl">Go To Cv</a>
+
+            }
+        </div>
+
+
+        <br />
+
+        <a class="btn btn-success" asp-action="Accept" asp-route-id="@Model.RequestId">Accept</a> |
+        <a class="btn btn-light" asp-action="Index">Back To List</a>
+    </div>
+</div>
+

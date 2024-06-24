@@ -1,0 +1,53 @@
+﻿@model IReadOnlyList<LocationViewModel>
+@{
+    ViewData["Title"] = "Locations";
+}
+
+
+<!-- Start Head -->
+<div class="head bg-white p-15 between-flex">
+    <div class="icons d-flex align-center">
+        <span class="notification p-relative">
+            <i class="fa-regular fa-bell fa-lg"></i>
+        </span>
+        <img src="~/imgs/avatar.png" alt="" />
+    </div>
+</div>
+<!-- End Head -->
+<h1 class="p-relative">Locations</h1>
+
+<a asp-action="Create" class="btn btn-primary m-3">Create</a>
+
+<div class="courses-page d-grid m-20 gap-20">
+    @foreach (var location in Model)
+    {
+        <div class="course bg-white rad-6 p-relative">
+            <img class="cover" src="~/imgs/location.jpg" alt="camp image" />
+            <div class="p-20">
+                <h4 class="m-0">@location.Name</h4>
+                <p class="description c-grey mt-15 fs-14">@location.Type</p>
+            </div>
+            <div class="btn-groups mb-3 p-2">
+
+                <a asp-controller="Location" asp-action="Details" asp-route-id="@location.Id" class="btn btn-primary me-2">
+                    Details <i class="fa-solid fa-arrow-right-to-bracket ps-1"></i>
+                </a>
+                <a asp-controller="Location" asp-action="Update" asp-route-id="@location.Id" class="btn btn-warning">
+                    Update <i class="fa-solid fa-pen-to-square ps-1"></i>
+                </a> <br />
+                <a asp-controller="Location" asp-action="Delete" asp-route-id="@location.Id" class="btn btn-danger mt-3">
+                    Delete <i class="fa-solid fa-bullhorn ps-1"></i>
+                </a>
+            </div>
+            <div class="info p-15 p-relative between-flex">
+                <span class="c-grey">
+                    <i class="fa-regular fa-user"></i>
+                    @location.Crews.Count()
+                </span>
+                
+            </div>
+        </div>
+    }
+
+</div>
+

@@ -1,0 +1,45 @@
+[
+  {
+
+    "Phone": "01008526698",
+    "Address": "Area 17 KH",
+    "RentalFees": 2500,
+    "Name": "CapitalSchool",
+    "Discriminator": "School"
+  },
+
+  {
+
+    "Phone": "01009527797",
+    "Address": "Area 20 MH",
+    "RentalFees": 4000,
+    "Name": "BccisSchool",
+    "Discriminator": "School"
+
+  },
+  {
+
+    "Phone": "0115492265",
+    "Address": " New Cairo 1",
+    "RentalFees": 5000,
+    "Name": "EliteSchool",
+    "Discriminator": "School"
+  },
+  {
+
+    "Phone": "01229854462",
+    "Address": "Dokki",
+    "RentalFees": 3000,
+    "Name": "JungleJamporee",
+    "Discriminator": "Office"
+  },
+  {
+
+    "Phone": "01007586625",
+    "Address": "NewCairo",
+    "RentalFees": 4000,
+    "Name": "JungleJamporee2",
+    "Discriminator": "Office"
+
+  }
+]

@@ -1,0 +1,48 @@
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Core\bin\Debug\net6.0\Core.deps.json
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Core\bin\Debug\net6.0\Core.dll
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Core\bin\Debug\net6.0\Core.pdb
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Core\obj\Debug\net6.0\Core.dll
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Core\obj\Debug\net6.0\refint\Core.dll
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Core\obj\Debug\net6.0\Core.pdb
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\jimmy\Downloads\assingment\WebApi\Core\bin\Debug\net6.0\Core.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\jimmy\Downloads\assingment\WebApi\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\jimmy\Downloads\assingment\WebApi\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\Downloads\assingment\WebApi\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\jimmy\Downloads\assingment\WebApi\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\jimmy\Downloads\assingment\WebApi\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Downloads\assingment\WebApi\Core\obj\Debug\net6.0\Core.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\jimmy\Downloads\assingment\WebApi\Core\obj\Debug\net6.0\ref\Core.dll
+D:\Project test\WebApi\Core\bin\Debug\net6.0\Core.deps.json
+D:\Project test\WebApi\Core\bin\Debug\net6.0\Core.dll
+D:\Project test\WebApi\Core\bin\Debug\net6.0\Core.pdb
+D:\Project test\WebApi\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\Project test\WebApi\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project test\WebApi\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\Project test\WebApi\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\Project test\WebApi\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\Project test\WebApi\Core\obj\Debug\net6.0\Core.dll
+D:\Project test\WebApi\Core\obj\Debug\net6.0\refint\Core.dll
+D:\Project test\WebApi\Core\obj\Debug\net6.0\Core.pdb
+D:\Project test\WebApi\Core\obj\Debug\net6.0\ref\Core.dll
+D:\GP\WebApi\Core\bin\Debug\net6.0\Core.deps.json
+D:\GP\WebApi\Core\bin\Debug\net6.0\Core.dll
+D:\GP\WebApi\Core\bin\Debug\net6.0\Core.pdb
+D:\GP\WebApi\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\GP\WebApi\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP\WebApi\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\GP\WebApi\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\GP\WebApi\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\GP\WebApi\Core\obj\Debug\net6.0\Core.dll
+D:\GP\WebApi\Core\obj\Debug\net6.0\refint\Core.dll
+D:\GP\WebApi\Core\obj\Debug\net6.0\Core.pdb
+D:\GP\WebApi\Core\obj\Debug\net6.0\ref\Core.dll

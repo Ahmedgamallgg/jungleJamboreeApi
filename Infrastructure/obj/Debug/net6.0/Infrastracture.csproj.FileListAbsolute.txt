@@ -1,0 +1,60 @@
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\bin\Debug\net6.0\Infrastracture.deps.json
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\bin\Debug\net6.0\Infrastracture.dll
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\bin\Debug\net6.0\Infrastracture.pdb
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\bin\Debug\net6.0\Core.dll
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\bin\Debug\net6.0\Core.pdb
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.csproj.AssemblyReference.cache
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.AssemblyInfoInputs.cache
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.AssemblyInfo.cs
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.csproj.CopyComplete
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.dll
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\obj\Debug\net6.0\refint\Infrastracture.dll
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.pdb
+D:\ASP.NET\Web Api\practise\WebAPI session 1\WebApi\Infrastructure\obj\Debug\net6.0\ref\Infrastracture.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\bin\Debug\net6.0\Infrastracture.deps.json
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\bin\Debug\net6.0\Infrastracture.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\bin\Debug\net6.0\Infrastracture.pdb
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.csproj.AssemblyReference.cache
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.AssemblyInfoInputs.cache
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.AssemblyInfo.cs
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.csproj.CopyComplete
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\obj\Debug\net6.0\refint\Infrastracture.dll
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.pdb
+C:\Users\jimmy\Downloads\assingment\WebApi\Infrastructure\obj\Debug\net6.0\ref\Infrastracture.dll
+D:\Project test\WebApi\Infrastructure\bin\Debug\net6.0\Infrastracture.deps.json
+D:\Project test\WebApi\Infrastructure\bin\Debug\net6.0\Infrastracture.dll
+D:\Project test\WebApi\Infrastructure\bin\Debug\net6.0\Infrastracture.pdb
+D:\Project test\WebApi\Infrastructure\bin\Debug\net6.0\Core.dll
+D:\Project test\WebApi\Infrastructure\bin\Debug\net6.0\Core.pdb
+D:\Project test\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.csproj.AssemblyReference.cache
+D:\Project test\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project test\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.AssemblyInfoInputs.cache
+D:\Project test\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.AssemblyInfo.cs
+D:\Project test\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.csproj.CoreCompileInputs.cache
+D:\Project test\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.csproj.CopyComplete
+D:\Project test\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.dll
+D:\Project test\WebApi\Infrastructure\obj\Debug\net6.0\refint\Infrastracture.dll
+D:\Project test\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.pdb
+D:\Project test\WebApi\Infrastructure\obj\Debug\net6.0\ref\Infrastracture.dll
+D:\GP\WebApi\Infrastructure\bin\Debug\net6.0\Infrastracture.deps.json
+D:\GP\WebApi\Infrastructure\bin\Debug\net6.0\Infrastracture.dll
+D:\GP\WebApi\Infrastructure\bin\Debug\net6.0\Infrastracture.pdb
+D:\GP\WebApi\Infrastructure\bin\Debug\net6.0\Core.dll
+D:\GP\WebApi\Infrastructure\bin\Debug\net6.0\Core.pdb
+D:\GP\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.csproj.AssemblyReference.cache
+D:\GP\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.AssemblyInfoInputs.cache
+D:\GP\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.AssemblyInfo.cs
+D:\GP\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.csproj.CoreCompileInputs.cache
+D:\GP\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.csproj.CopyComplete
+D:\GP\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.dll
+D:\GP\WebApi\Infrastructure\obj\Debug\net6.0\refint\Infrastracture.dll
+D:\GP\WebApi\Infrastructure\obj\Debug\net6.0\Infrastracture.pdb
+D:\GP\WebApi\Infrastructure\obj\Debug\net6.0\ref\Infrastracture.dll

@@ -1,0 +1,34 @@
+D:\GP\WebApi\Service\bin\Release\net6.0\Service.deps.json
+D:\GP\WebApi\Service\bin\Release\net6.0\Service.dll
+D:\GP\WebApi\Service\bin\Release\net6.0\Service.pdb
+D:\GP\WebApi\Service\bin\Release\net6.0\Core.dll
+D:\GP\WebApi\Service\bin\Release\net6.0\Infrastracture.dll
+D:\GP\WebApi\Service\bin\Release\net6.0\Infrastracture.pdb
+D:\GP\WebApi\Service\bin\Release\net6.0\Core.pdb
+D:\GP\WebApi\Service\obj\Release\net6.0\Service.csproj.AssemblyReference.cache
+D:\GP\WebApi\Service\obj\Release\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP\WebApi\Service\obj\Release\net6.0\Service.AssemblyInfoInputs.cache
+D:\GP\WebApi\Service\obj\Release\net6.0\Service.AssemblyInfo.cs
+D:\GP\WebApi\Service\obj\Release\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\GP\WebApi\Service\obj\Release\net6.0\Service.csproj.CopyComplete
+D:\GP\WebApi\Service\obj\Release\net6.0\Service.dll
+D:\GP\WebApi\Service\obj\Release\net6.0\refint\Service.dll
+D:\GP\WebApi\Service\obj\Release\net6.0\Service.pdb
+D:\GP\WebApi\Service\obj\Release\net6.0\ref\Service.dll
+D:\Project test\WebApi\WebApi\Service\bin\Release\net6.0\Service.deps.json
+D:\Project test\WebApi\WebApi\Service\bin\Release\net6.0\Service.dll
+D:\Project test\WebApi\WebApi\Service\bin\Release\net6.0\Service.pdb
+D:\Project test\WebApi\WebApi\Service\bin\Release\net6.0\Core.dll
+D:\Project test\WebApi\WebApi\Service\bin\Release\net6.0\Infrastracture.dll
+D:\Project test\WebApi\WebApi\Service\bin\Release\net6.0\Infrastracture.pdb
+D:\Project test\WebApi\WebApi\Service\bin\Release\net6.0\Core.pdb
+D:\Project test\WebApi\WebApi\Service\obj\Release\net6.0\Service.csproj.AssemblyReference.cache
+D:\Project test\WebApi\WebApi\Service\obj\Release\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project test\WebApi\WebApi\Service\obj\Release\net6.0\Service.AssemblyInfoInputs.cache
+D:\Project test\WebApi\WebApi\Service\obj\Release\net6.0\Service.AssemblyInfo.cs
+D:\Project test\WebApi\WebApi\Service\obj\Release\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\Project test\WebApi\WebApi\Service\obj\Release\net6.0\Service.csproj.CopyComplete
+D:\Project test\WebApi\WebApi\Service\obj\Release\net6.0\Service.dll
+D:\Project test\WebApi\WebApi\Service\obj\Release\net6.0\refint\Service.dll
+D:\Project test\WebApi\WebApi\Service\obj\Release\net6.0\Service.pdb
+D:\Project test\WebApi\WebApi\Service\obj\Release\net6.0\ref\Service.dll
